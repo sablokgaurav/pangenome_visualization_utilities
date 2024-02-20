@@ -4,8 +4,7 @@ a collection of pangenome visualization utilities written in R, Python and Ruby 
 1. Visualization of the pangenome conservation as a dotted bi-graph.
 2. Virualization of the pangenome conservation.
 3. Marked gene and genome coverage.
-4. a streamlit application for mapping and visualization of pangenomes and corresponding genome tracts and also enables the datascience workflow. You can also create genome tracts and also the mapping for those tracts. It is a part of the docker long read genome assembly pangenome workflow.
-
+4. a streamlit application for mapping and visualization of pangenomes and corresponding genome tracts. You can also create genome tracts and also the mapping for those tracts. 
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
